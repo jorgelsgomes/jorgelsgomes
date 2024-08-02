@@ -1,6 +1,6 @@
 Olá! Me chamo Jorge Luís.
 ### 💻 Desenvolvedor Web Full-Stack
- Atualmente estou reciclando meus conhecimentos em analise de sistemas e desenvolvimento web full stack por meio da Trybe
+Analista de TI no Projeto São Francisco.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jorge-gomes-dev/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=&logoColor=0E76A8)](https://jorgelsgomes.github.io/portfolio/)
