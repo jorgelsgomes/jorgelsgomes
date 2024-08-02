@@ -17,5 +17,4 @@ Analista de TI no Projeto São Francisco.
 ![Jest](https://img.shields.io/badge/Jest-000?style=for-the-badge&logo=jest)
 ![Sequelize](https://img.shields.io/badge/sequelize-000?style=for-the-badge&logo=sequelize)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgelgomes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
